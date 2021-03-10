@@ -1,0 +1,13 @@
+.ff{
+    
+    
+    background: linear-gradient(to bottom,
+    rgba(19, 18, 18, 0.6),
+    rgba(44, 46, 45, 0.6),
+    rgba(220, 225, 228, 0.45)
+    ), url(html2.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+   
+}
